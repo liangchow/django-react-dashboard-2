@@ -1,0 +1,11 @@
+Django
+django-cors-headers
+django-environ
+djangorestframework
+djangorestframework-simplejwt
+
+numpy
+pandas
+
+PyJWT
+python-dotenv
